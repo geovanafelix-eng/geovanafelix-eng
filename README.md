@@ -2,7 +2,7 @@ Boas vindas ao meu perfil 💙💙
 
 Meu nome é Geovana Felix
 
-Estou estudando na Alura
+Estou estudando no Alura
 
 Estou me desenvolvendo na linguagem JavaScript
 
